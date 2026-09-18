@@ -122,7 +122,7 @@ O relatório foi desenvolvido no **Power BI** e dividido em três perspectivas a
 
 ## 1. Desempenho do Negócio
 
-![Desempenho do Negócio](images/desempenho-negocio.png)
+![Desempenho do Negócio](images/desempenho-negocio.PNG)
 
 A primeira página busca responder:
 
@@ -134,7 +134,7 @@ São analisados receita, pedidos, ticket médio, margem, sazonalidade, categoria
 
 ## 2. Aquisição & Growth
 
-![Aquisição e Growth](images/aquisicao-growth.png)
+![Aquisição e Growth](images/aquisicao-growth.PNG)
 
 A segunda página acompanha a jornada:
 
@@ -159,7 +159,7 @@ O funil também permitiu identificar a maior ruptura da jornada entre **visualiz
 
 ## 3. Clientes & Retenção
 
-![Clientes e Retenção](images/clientes-retencao.png)
+![Clientes e Retenção](images/clientes-retencao.PNG)
 
 A última página responde:
 
