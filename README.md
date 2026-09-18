@@ -2,7 +2,7 @@
 
 > oii, aqui é um estudo de transformação digital, Business Intelligence e Growth aplicado a uma operação B2C fictícia, baseada no conteúdo da minha pós gradução, em Gestão de Tecnologia da Informação Corporativa.
 
-![Capa do projeto](images/capa.png)
+![Capa do projeto](images/capa.PNG)
 
 ## Sobre o projeto
 
